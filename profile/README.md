@@ -1,5 +1,3 @@
-<img width="371" height="700" alt="입찰순위" src="https://github.com/user-attachments/assets/f085edbf-1a5b-4c7d-9cf4-dce067bc162b" />
-
 <div align="center">
 
 <table>
