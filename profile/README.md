@@ -1,4 +1,4 @@
-
+<img width="371" height="700" alt="입찰순위" src="https://github.com/user-attachments/assets/f085edbf-1a5b-4c7d-9cf4-dce067bc162b" />
 
 <div align="center">
 
@@ -57,12 +57,18 @@ AI 추천, 실시간 경매, 검색 및 배포 인프라를 하나의 서비스 
 * Gemini API 기반 AI 모델을 활용하여 상품 카테고리 및 예상 가격 추천
 * 사용자 입력 데이터를 기반으로 상품 등록 편의성 향상
 * FastAPI 기반 AI 서버와 Spring Boot 백엔드 연동
+<img width="389" height="745" alt="ai가격추천" src="https://github.com/user-attachments/assets/e7e3d2b7-f260-4450-8b38-e3abb7b0f0bd" />
+<img width="380" height="745" alt="ai카테고리" src="https://github.com/user-attachments/assets/872f3584-86a4-4f71-bf65-da0eaf426908" />
 
 ## 실시간 경매 시스템
 
 * SSE(Server-Sent Events)를 활용한 실시간 입찰 상태 반영
 * 최고 입찰가 및 경매 상태를 실시간으로 사용자에게 전파
 * Redis Pub/Sub 기반 이벤트 처리 구조 적용
+<img width="369" height="695" alt="입찰현황" src="https://github.com/user-attachments/assets/12586534-ac4b-4214-8a54-107ad242c91f" />
+<img width="371" height="700" alt="입찰순위" src="https://github.com/user-attachments/assets/541804e4-d6ef-4ef2-8b89-73d4a0fc9f5b" />
+<img width="890" height="1020" alt="알림" src="https://github.com/user-attachments/assets/36e9a6ef-1890-45bb-833b-bc11445567a1" />
+
 
 ## Redis Lua Script 기반 동시성 제어
 
@@ -70,17 +76,33 @@ AI 추천, 실시간 경매, 검색 및 배포 인프라를 하나의 서비스 
 * Lua Script를 통해 입찰 검증 및 최고가 갱신을 원자적으로 수행
 * 동시 입찰 상황에서도 데이터 정합성 보장
 
+<img width="743" height="1399" alt="입찰전" src="https://github.com/user-attachments/assets/dbb196dd-d4b7-4201-a603-ea2b083bd8c9" />
+<img width="389" height="746" alt="입찰상황" src="https://github.com/user-attachments/assets/bfd4adfb-a005-4918-8850-3ed571da832b" />
+<img width="386" height="743" alt="입찰" src="https://github.com/user-attachments/assets/bed72f68-3ee2-45ec-ab62-c88ed3e8894d" />
+<img width="390" height="734" alt="입찰 추월" src="https://github.com/user-attachments/assets/80f607db-e9c9-4350-b996-51751fd0d226" />
+
+
 ## 검색 기능
 
 * OpenSearch 기반 상품 검색 기능 구현
 * 상품명 및 키워드 기반 검색 지원
 * 검색 성능 향상을 위한 검색 엔진 분리 구조 적용
 
+<img width="365" height="702" alt="검색" src="https://github.com/user-attachments/assets/740c3db2-e2c7-4de8-b1b6-02e3162690b3" />
+<img width="387" height="740" alt="카테고리검색" src="https://github.com/user-attachments/assets/8c9fce45-aaa2-471e-9789-13ff9888043d" />
+
+
 ## 결제 및 예치금 시스템
 
 * 입찰 예치금 및 거래 금액 관리 기능 구현
 * 경매 종료 후 자동 정산 및 환불 처리 구조 설계
 * 트랜잭션 분리를 통한 안정적인 결제 흐름 관리
+
+<img width="1170" height="2532" alt="KakaoTalk_20260528_162043604" src="https://github.com/user-attachments/assets/aa5e70b8-f5f2-4365-9117-16bd9e2ef20d" />
+<img width="1170" height="2532" alt="KakaoTalk_20260528_162043604_01" src="https://github.com/user-attachments/assets/993a44fa-1763-4140-b927-054975d24d09" />
+<img width="1170" height="2532" alt="KakaoTalk_20260528_162043604_02" src="https://github.com/user-attachments/assets/f26d1d8a-c793-49b1-86e9-58af0f5ec559" />
+<img width="424" height="770" alt="예치금" src="https://github.com/user-attachments/assets/d84ff7d6-8fe1-4a76-9f28-dd9bb0c73c73" />
+
 
 ## 배포 및 운영 환경 구축
 
