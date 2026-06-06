@@ -19,7 +19,7 @@
 
 
 <p align=center>
-  <a href="https://bow-snail-89d.notion.site/d913942c81e343339927bc654bb0b158?pvs=4](https://www.notion.so/2dd02d41af3480f5b26ce06e11f5c00b?source=copy_link">팀 노션</a>
+  <a href="https://www.notion.so/2dd02d41af3480f5b26ce06e11f5c00b?source=copy_link">팀 노션</a>
   &nbsp; | &nbsp; 
   <a href="https://www.youtube.com/watch?v=CkGmaPMyGKs">시연 영상</a>
   &nbsp;
