@@ -5,7 +5,7 @@
 <table>
   <tr>
     <td align="center">
-      <img width="650" src="[https://github.com/user-attachments/assets/9399d6c8-9de4-49f4-a770-85e73dd8cdd7](https://vivacious-asp-af5.notion.site/2dd02d41af3480f5b26ce06e11f5c00b?source=copy_link)" />
+      <img width="650" src="https://github.com/user-attachments/assets/9399d6c8-9de4-49f4-a770-85e73dd8cdd7" />
     </td>
     <td align="center">
       <img width="650" src="https://github.com/user-attachments/assets/ce87c46c-2b6e-4782-bdec-b2026e2aa1e3" />
@@ -19,7 +19,7 @@
 
 
 <p align=center>
-  <a href="https://www.notion.so/2dd02d41af3480f5b26ce06e11f5c00b?source=copy_link">팀 노션</a>
+  <a href="https://vivacious-asp-af5.notion.site/2dd02d41af3480f5b26ce06e11f5c00b?source=copy_link">팀 노션</a>
   &nbsp; | &nbsp; 
   <a href="https://www.youtube.com/watch?v=CkGmaPMyGKs">시연 영상</a>
   &nbsp;
