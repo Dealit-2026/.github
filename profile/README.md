@@ -27,6 +27,17 @@
 
 
 
+## Main Repositories
+
+| Repository | Description |
+|---|---|
+| [Dealit](https://github.com/Dealit-2026/Dealit) | 프로젝트 소개 및 문서 |
+| [Backend](https://github.com/Dealit-2026/backend) | Spring Boot Backend |
+| [Frontend](https://github.com/Dealit-2026/frontend) | Frontend Client |
+| [AI](https://github.com/Dealit-2026/ai-server) | AI Recommendation Server |
+
+
+
 # 프로젝트 개요
 
 
